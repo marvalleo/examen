@@ -1,0 +1,5 @@
+TestJunit\ConexionBD.class
+TestRunner\Runner.class
+com\petSmile\ReservaHora\AppTest.class
+TestJunit\TestConexionBD.class
+TestDefinition\TestSteps.class
